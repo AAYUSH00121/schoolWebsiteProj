@@ -59,10 +59,6 @@ Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
    http://localhost:3000
    ```
 
-## 🌐 Deployment
-
-The website is deployed and live on [Netlify](https://www.netlify.com). Check it out [here](https://your-live-site-url) to see the project in action!
-
 
 ## 💡 Usage
 
